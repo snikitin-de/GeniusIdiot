@@ -19,7 +19,7 @@
 1. Консольное приложение;
 2. Приложение на технологии **Windows Forms**.
 
-### GeniusIdiotConsoleApp
+### 📁 GeniusIdiotConsoleApp
 
 Консольное приложение
 
@@ -29,7 +29,7 @@
 
 ![GeniusIdiotConsoleApp](https://github.com/snikitin-de/GeniusIdiot/assets/25394427/8e4c876d-9467-4202-ae26-74fc499c9e1c)
 
-### GeniusIdiotWinFormsApp
+### 📁 GeniusIdiotWinFormsApp
 
 Приложение на технологии **Windows Forms**
 
